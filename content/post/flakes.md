@@ -2,7 +2,6 @@
 date = "2016-08-14T17:23:57-07:00"
 title = "The Campaign Against Flakiness in California"
 tags = ["new york", "san francisco", "social", "technology", "dating"]
-draft = true
 categories = ["commentary"]
 banner = "banners/phones.jpg"
 +++
