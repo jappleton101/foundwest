@@ -2,7 +2,7 @@
 date = "2016-08-14T17:23:57-07:00"
 title = "The Campaign Against Flakiness in California"
 tags = ["new york", "san francisco", "social", "technology", "dating"]
-categories = ["commentary"]"
+categories = ["commentary"]
 +++
 
 Technology has an interesting impact on how we plan our social lives. For formal things, it used to be letters and invitations. Now those are pretty much reserved for weddings and pretentious charity events. If you wanted to make plans on the fly, it was just the people in your immediate vicinity. Neighborhood friends are no longer a staple of suburban life. Texts, Facebook events, and dating apps dominate how we plan our social lives. Taps, swipes, and buzzing phones have replaced chats while picking up the newspaper or check-ins during an encounter at the grocery store. 
