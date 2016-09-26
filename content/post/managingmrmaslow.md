@@ -2,7 +2,7 @@
 categories = ["career"]
 date = "2016-09-25T19:42:03-07:00"
 tags = ["work", "psychology", "career", "office life"]
-title = "Managing Mr. Maslow"
+title = "Managing Mr Maslow"
 
 +++
 
@@ -19,8 +19,8 @@ Prestige/accomplishment is more abstract depending on the job function. Accompli
 
 Self actualization gets tricky and for most, I don’t think it will be achieved at a 9-5 job. But there’s nothing wrong with that! Writing has always been my creative outlet but I never wanted to do it for a living. When I’m part of a good team at work and producing something that people find useful, I’m grateful to have the freedom to pursue writing in my spare time. Also, if I had to write everyday to pay the bills, I might end up hating it! 
 
-Adam Grant explores this concept more deeply and calls it a risk portfolio in his latest book Originals. By pursuing a career that gives us a stable way to provide for ourselves, we’re free to take risks with something not tied to our livelihood. 
+Adam Grant explores this concept more deeply and calls it a risk portfolio in his latest book Originals. By pursuing a career that gives us a stable way to provide for ourselves, we’re free to take risks with something not tied to our livelihood. Here's a quote from Originals:
 
->“Brian May was in the middle of doctoral studies in astrophysics when he started playing guitar in a new band, but he didn’t drop out until several years later to go all in with Queen.”
+“Brian May was in the middle of doctoral studies in astrophysics when he started playing guitar in a new band, but he didn’t drop out until several years later to go all in with Queen.”
 
 For those of us who can achieve self actualization at work, it will be if the mission of your company directly aligns with your core values as an individual. My brother is a doctor who values healthy living and self care above most other things. Since he started his residency, he’s been at the top of his pyramid. When I’m building things during the day, and sharing knowledge at night, I feel like I’m standing right there next to him.
