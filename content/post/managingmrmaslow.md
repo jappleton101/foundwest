@@ -9,9 +9,7 @@ title = "Managing Mr. Maslow"
 The hierarchy of needs is a subject that’s covered in standard undergraduate psychology courses. It’s an assertion by Abraham Maslow that in order to function optimally, certain needs must be met. However, it’s a hierarchy in the sense that if the ones at the base aren’t being met, we won’t be able to achieve the next levels. I was talking to my friend a few weeks ago about how this applies to our work lives so I wanted to write some thoughts.
 
 {{< gallery
-    "/banners/maslow-pyramid.jpg"
->}}
-
+"/banners/maslow-pyramid.jpg">}}
 
 For the sake of this post, my starting point for the Maslow’s hierarchy of needs is at the (privileged) assumption that food, warmth, rest, safety, and security are covered — I’m talking about the typical corporate job. Helping people who can’t achieve the first two levels is something that can’t be addressed in a single blog post. 
 
@@ -23,6 +21,6 @@ Self actualization gets tricky and for most, I don’t think it will be achieved
 
 Adam Grant explores this concept more deeply and calls it a risk portfolio in his latest book Originals. By pursuing a career that gives us a stable way to provide for ourselves, we’re free to take risks with something not tied to our livelihood. 
 
-“Brian May was in the middle of doctoral studies in astrophysics when he started playing guitar in a new band, but he didn’t drop out until several years later to go all in with Queen.”
+>“Brian May was in the middle of doctoral studies in astrophysics when he started playing guitar in a new band, but he didn’t drop out until several years later to go all in with Queen.”
 
 For those of us who can achieve self actualization at work, it will be if the mission of your company directly aligns with your core values as an individual. My brother is a doctor who values healthy living and self care above most other things. Since he started his residency, he’s been at the top of his pyramid. When I’m building things during the day, and sharing knowledge at night, I feel like I’m standing right there next to him.
