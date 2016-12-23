@@ -2,7 +2,7 @@
 title = "Weekend in Philly"
 date = "2016-12-22T15:49:20+02:00"
 tags = ["philadelphia", "travel", "coffee", "beer", "restaurants", "art"]
-categories = ["self"]
+categories = ["travel"]
 banner = "banners/philly.JPG"
 +++
 
