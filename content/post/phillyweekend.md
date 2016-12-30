@@ -3,6 +3,7 @@ title = "Weekend in Philly"
 date = "2016-12-22T15:49:20+02:00"
 tags = ["philadelphia", "travel", "coffee", "beer", "restaurants", "art"]
 categories = ["travel"]
+banner = "banners/philly.JPG"
 +++
 
 The city of brotherly love was my home for three years. It’s an accessible place with tons of good places to eat and drink without the crowds and costs of Manhattan. There’s history, art, and beautiful outdoor spaces that can be enjoyed practically year-round (after all, it’s always sunny in Philadelphia). If you want to spent a weekend there, here’s what I recommend.
